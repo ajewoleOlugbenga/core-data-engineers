@@ -23,3 +23,5 @@
    Update database credentials in the copy_to_postgres.sh script.
    Run the ETL script manually to test: bash Scripts/Bash/etl_process.sh
 4. Schedule the ETL script using cron jobs.
+
+ETL Diagram
